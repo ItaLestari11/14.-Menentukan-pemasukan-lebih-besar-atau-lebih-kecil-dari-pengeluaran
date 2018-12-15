@@ -1,0 +1,1 @@
+# 14.-Menentukan-pemasukan-lebih-besar-atau-lebih-kecil-dari-pengeluaran
